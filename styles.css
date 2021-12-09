@@ -9,10 +9,7 @@
              background-image: url('https://raw.githubusercontent.com/FanaroEngineering/fanaro_sabaki_theme_collection/master/screenshots/bluish_purple.png');
     /*background-image: url("cixidetroy.github.io/croix-ankh_grande.jpg");*/
     
-  
-          background-attachment: fixed; /* Le fond restera fixe */
-          background-repeat: repeat; /* Le fond ne sera pas répété */
-    background-position: top left; /* Le fond sera placé en haut à droite */}
+}
         
   h1 {
   color: rgba(255, 0, 170, 0.685);
