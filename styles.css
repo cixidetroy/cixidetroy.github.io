@@ -1,11 +1,12 @@
 
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,500&display=swap');
 
-    body { /* no . means element type */
-        text-align: center; /* text-align centers text AND children */
- 
-      }
-  
-.container { .container {
+.avatar-container .Player-username {
+    font-size: 2em;
+    font: 'EB Garamond';
+}
+
+.container {
     max-width: none !important;
     /* background-color: #21222c; */
     
@@ -18,29 +19,4 @@
     /* embarrassment is the cost of entry |    background-image: url('https://i.imgur.com/0NTaxZn.jpeg'); */
     /* black and white mountain top       |    background-image: url('https://wallpaperaccess.com/full/2109.jpg'); */
     /* bluish purple sabaki theme         | */ background-image: url('https://raw.githubusercontent.com/FanaroEngineering/fanaro_sabaki_theme_collection/master/screenshots/bluish_purple.png');
-}
-    /*background-image: url("cixidetroy.github.io/croix-ankh_grande.jpg");*/
-    
-}
-        
-  h1 {
-  color: rgba(255, 0, 170, 0.685);
-}
-
-h2,h3 {
-    color: rgba(153, 0, 255, 0.795);
-  }
-
-p {
-  color: rgba(255, 123, 0, 0.801);
-}
-
-    
-      
-      .avatar-container .Player-username {
-        font-size: 2em;
-        font-family: "Comic Sans MS", cursive, serif;
-          color:rgba(153, 0, 255, 0.795);
-    }
- 
 }
