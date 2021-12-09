@@ -14,12 +14,6 @@
     }
   
 
-
-.container {          background-image: url("https://ibb.co/gFFW8TY") !important; 
-          background-attachment: fixed; /* Le fond restera fixe */
-          background-repeat: repeat; /* Le fond ne sera pas répété */
-          background-position: top right; /* Le fond sera placé en haut à droite */
-}
         
   h1 {
   color: rgba(255, 0, 170, 0.685);
