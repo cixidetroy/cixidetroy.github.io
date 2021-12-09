@@ -6,7 +6,10 @@
       }
   
 .container {
-             background-image: url("cixidetroy.github.io/croix-ankh_grande.jpg");
+             background-image: url("https://i.imgur.com/n4LeSqO.jpeg");
+    /*background-image: url("cixidetroy.github.io/croix-ankh_grande.jpg");*/
+    
+  
           background-attachment: fixed; /* Le fond restera fixe */
           background-repeat: repeat; /* Le fond ne sera pas répété */
     background-position: top left; /* Le fond sera placé en haut à droite */}
