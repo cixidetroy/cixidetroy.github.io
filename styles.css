@@ -4,6 +4,12 @@
  
       }
 
+.avatar-container {
+ border-width:1px;
+ border-style:ridge;
+ border-color:blue;
+}
+
 
 
       
