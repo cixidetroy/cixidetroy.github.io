@@ -2,7 +2,7 @@
 
     body { /* no . means element type */
         text-align: center; /* text-align centers text AND children */
-          background-image: url("croix-ankh_grande.jpg");
+          background-image: url("cixidetroy.github.io/croix-ankh_grande.jpg");
           background-attachment: fixed; /* Le fond restera fixe */
           background-repeat: repeat; /* Le fond ne sera pas répété */
           background-position: top right; /* Le fond sera placé en haut à droite */
