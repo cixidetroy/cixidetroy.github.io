@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,500&display=swap');
 
 
-   body { /* no . means element type */
-        text-align: center; /* text-align centers text AND children */
+
+
+
+      
+      .avatar-container .Player-username {
+        font-size: 2em;
+        font-family: "Comic Sans MS", cursive, serif;
+          color:rgba(153, 0, 255, 0.795);
+    }
  
-      }
 
-
-.avatar-container .Player-username {
-    font-size: 2em;
-    font: 'EB Garamond';
-}
 
 .container {
     max-width: none !important;
