@@ -4,14 +4,6 @@
  
       }
 
-.avatar-container {
- border-width:4px;
- border-style:ridge;
- border-color:blue;
-}
-
-
-
       
       .avatar-container .Player-username {
         font-size: 2em;
@@ -21,11 +13,11 @@
  
 
 h2,h3 {
-    color: rgba(104, 118, 243, 0.685);
+    color: rgba(102, 31, 216, 0.685);
   }
 
 p {
-  color: rgba(102, 31, 216, 0.685);
+  color: rgba(28, 64, 223, 0.616);
    font-family: "Lucida Handwriting", cursive; 
 }
 
