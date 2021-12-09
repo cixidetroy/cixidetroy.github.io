@@ -37,6 +37,13 @@ margin-right: auto;
 border-radius: 20px;
 }
 
+.image2 {
+ width: 5%;
+margin-left: auto;
+margin-right: auto;
+border-radius: 40px;
+}
+
 .about-container h1 {
     color:rgba(255, 60, 0, 0.795);
     font-size: 3em;
