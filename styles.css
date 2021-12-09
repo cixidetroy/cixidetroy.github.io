@@ -2,13 +2,14 @@
 
     body { /* no . means element type */
         text-align: center; /* text-align centers text AND children */
-          background-image: url("cixidetroy.github.io/croix-ankh_grande.jpg");
-          background-attachment: fixed; /* Le fond restera fixe */
-          background-repeat: repeat; /* Le fond ne sera pas répété */
-          background-position: top left; /* Le fond sera placé en haut à droite */
+ 
       }
   
-
+.container {
+             background-image: url("cixidetroy.github.io/croix-ankh_grande.jpg");
+          background-attachment: fixed; /* Le fond restera fixe */
+          background-repeat: repeat; /* Le fond ne sera pas répété */
+    background-position: top left; /* Le fond sera placé en haut à droite */}
         
   h1 {
   color: rgba(255, 0, 170, 0.685);
