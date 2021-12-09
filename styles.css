@@ -5,7 +5,7 @@
       }
 
 .avatar-container {
- border-width:1px;
+ border-width:4px;
  border-style:ridge;
  border-color:blue;
 }
@@ -25,7 +25,7 @@ h2,h3 {
   }
 
 p {
-  color: rgba(255, 123, 0, 0.801);
+  color: rgba(102, 31, 216, 0.685);
    font-family: "Lucida Handwriting", cursive; 
 }
 
@@ -51,7 +51,7 @@ border-radius: 40px;
 }
 
 .about-container h1 {
-    color:rgba(255, 60, 0, 0.795);
+    color:rgba(104, 118, 243, 0.685);
     font-size: 3em;
     position: absolute;
     width: 100%;
