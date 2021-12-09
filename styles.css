@@ -9,7 +9,7 @@
       
       .avatar-container .Player-username {
         font-size: 2em;
-        font-family: "Lucida Handwriting", cursive, serif;
+        font-family: "papyrus", fantasy;
           color:rgba(153, 0, 255, 0.795);
     }
  
@@ -43,7 +43,7 @@ border-radius: 20px;
 }
 
 .about-container h1 {
-    color: limegreen;
+    color:rgba(153, 0, 255, 0.795);
     font-size: 3em;
     position: absolute;
     width: 100%;
