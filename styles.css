@@ -19,6 +19,7 @@ h2,h3 {
 p {
   color: rgba(0, 140, 255, 0.76);
    font-family: "Lucida Handwriting", cursive; 
+   margin-top: 50px
 }
 
 .container {
