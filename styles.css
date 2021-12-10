@@ -28,7 +28,7 @@ p {
 
 }
 
-.figure {
+figure {
     display: flex;
     flex-flow: column;
  width: 20%;
