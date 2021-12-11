@@ -114,5 +114,8 @@ border-radius: 40px;
 .weak-losses
 
 
-
+/*HIDE PARTS*/
+.ratings-row {
+	display: none !important;
+}
 
