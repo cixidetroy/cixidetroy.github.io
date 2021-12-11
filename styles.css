@@ -10,6 +10,12 @@
           color:rgba(104, 118, 243, 0.685);
     }
  
+/*HIDE PARTS*/
+.ratings-row {
+	display: none !important;
+}
+
+
 h2 {color:rgba(104, 118, 243, 0.685);}
 
 h3 {
@@ -115,8 +121,4 @@ border-radius: 40px;
 .weak-losses
 
 
-/*HIDE PARTS*/
-.ratings-row {
-	display: none !important;
-}
 
