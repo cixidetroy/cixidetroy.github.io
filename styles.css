@@ -115,10 +115,10 @@ border-radius: 40px;
 
 /*If you change the background colours in the classes*/
 
-.library-won-result-vs-stronger{  background-color: RGBA( 255, 182, 193, 1 ) !important;}
-.library-won-result-vs-weaker{  background-color: RGBA( 255, 160, 122, 1 ) !important;}
-.library-lost-result-vs-weaker {  background-color: RGBA( 32, 178, 170, 1 ) !important;}
-.library-lost-result-vs-stronger{  background-color: RGBA( 135, 206, 250, 1 ) !important;}
+.library-won-result-vs-stronger{  background-color: RGBA( 255, 182, 193, 1 ) !important; color:black !important;}
+.library-won-result-vs-weaker{  background-color: RGBA( 255, 160, 122, 1 ) !important; color:black !important;}
+.library-lost-result-vs-weaker {  background-color: RGBA( 32, 178, 170, 1 ) !important; color:black !important;}
+.library-lost-result-vs-stronger{  background-color: RGBA( 135, 206, 250, 1 ) !important; color:black !important;}
 
 /*and for the game history table colours of*/
 
