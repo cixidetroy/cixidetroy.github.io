@@ -56,19 +56,19 @@ h2 {
 }
 
 h3 {
-  color: rgba(0, 140, 255, 0.76);
+  color: RGBA( 0, 206, 209, 1 );
    font-family: "Lucida Handwriting", cursive; 
   }
 
 h4{
-   color: RGBA( 64, 224, 208, 1 )
+   color: RGBA( 0, 206, 209, 1 )
    font-family: "Lucida Handwriting", cursive; 
 }
 
 .camille {
      /*font-family: "Book Antiqua", serif;
      color:RGBA( 0, 128, 128, 1 );*/
-	color: RGBA( 64, 224, 208, 1 )
+	RGBA( 0, 206, 209, 1 )
 	font-family: "Brush Script MT", font;
 }
 
@@ -103,7 +103,7 @@ border-radius: 40px;
 
 .about-container h1 {
     /*color:rgba(247, 163, 38, 0.89);*/
-	color: rgba(0, 140, 255, 0.76);
+	color: RGBA( 0, 206, 209, 1 );
    font-family: "Lucida Handwriting", cursive; 
     font-size: 3em;
     position: absolute;
