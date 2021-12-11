@@ -113,12 +113,12 @@ border-radius: 40px;
 .library-lost-result-unranked
 .library-won-result-unranked
 
-/* and for the pie chart change the colours of fill*/
+/* and for the pie chart change the colours of fill
 
 .strong-wins
 .strong-losses {   fill:rgba(104, 118, 243, 0.685) !important;}
 .weak-wins
-.weak-losses
+.weak-losses*/
 
 
 
