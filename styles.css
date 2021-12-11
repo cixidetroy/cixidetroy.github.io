@@ -19,11 +19,16 @@ h4{
    color: rgba(0, 140, 255, 0.76)
 }
 
-.test
-{
-  display: inline-block;
+.nav {
+  background-color: yellow; 
+  list-style-type: none;
   text-align: center;
-  margin: 0;  
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
   font-size: 20px;
   padding: 20px;
 }
