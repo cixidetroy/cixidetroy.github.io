@@ -13,6 +13,8 @@ body { /* no . means element type */
 
 .ratings-container{
 	background-color:#303030;
+	border: solid;
+	border-color: #A0A0A0;
 }
 
 .container {
