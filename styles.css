@@ -21,7 +21,7 @@ h4{
 
 
 span.test{
-  display: inline-block;
+  display: inline;
   font-size: 20px;
   padding: 20px;
   background-color: yellow; 
