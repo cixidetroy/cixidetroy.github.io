@@ -40,8 +40,8 @@ h3 {
   }
 
 h4{
-   color: rgba(0, 140, 255, 0.76)
-   font-family: "papyrus", fantasy;
+   color: RGBA( 64, 224, 208, 1 )
+   font-family: "Gabriola", css;
 }
 
 .camille {
