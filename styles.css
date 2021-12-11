@@ -3,7 +3,6 @@
         text-align: center; /* text-align centers text AND children */
  
       }
-
       
       .avatar-container .Player-username {
         font-size: 2em;
@@ -30,26 +29,11 @@ p {
 
 }
 
-figure {
-    display: flex;
-    flex-flow: column;
- 
-margin-left: auto;
-margin-right: auto;
-
-}
-
-img {
+.image {
 width: 20%;
 border-radius: 20px;
-}
-
-figcaption {
-    background-color: #789;
-    color: #fff;
-    font: italic smaller sans-serif;
-    padding: 3px;
-    text-align: center;
+margin-left: auto;
+margin-right: auto;
 }
 
 .images {
@@ -74,6 +58,8 @@ border-radius: 40px;
     -webkit-animation: scrolling 15s linear infinite;
     animation: scrolling 15s linear infinite;
 }
+
+
 /* Move it (define the animation) */
 @-moz-keyframes scrolling {
     0%   { -moz-transform: translateX(100%); }
@@ -96,11 +82,25 @@ border-radius: 40px;
     }
 }
 
+/*If you change the background colours in the classes*/
 
-.strong-losses{   fill:rgba(104, 118, 243, 0.685) !important;}
+.library-won-result-vs-stronger
+.library-won-result-vs-weaker
+.library-lost-result-vs-weaker {  background-color: rgba(255, 255, 128, .5) !important;}
+.library-lost-result-vs-stronger
 
+/*and for the game history table colours of*/
 
-.library-won-result-vs-weaker{  background-color: rgba(255, 255, 128, .5) !important;}
+.library-lost-result-unranked
+.library-won-result-unranked
+
+/* and for the pie chart change the colours of fill*/
+
+.strong-wins
+.strong-losses {   fill:rgba(104, 118, 243, 0.685) !important;}
+.weak-wins
+.weak-losses
+
 
 
 
