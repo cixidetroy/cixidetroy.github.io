@@ -27,6 +27,7 @@ span.test{
   background-color: green; 
 }
 
+
 p {
   color: rgba(0, 140, 255, 0.76);
    font-family: "Lucida Handwriting", cursive; 
@@ -44,6 +45,7 @@ width: 20%;
 border-radius: 20px;
 margin-left: auto;
 margin-right: auto;
+display: inline-block;
 }
 
 .images {
