@@ -44,6 +44,11 @@ h4{
    font-family: "papyrus", fantasy;
 }
 
+.camille {
+	        font-size: 2em;
+        font-family: "Book Antiqua", serif;
+          color:RGBA( 106, 90, 205, 1 );
+	
 
 span.test{
   display: inline-block;
