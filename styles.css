@@ -1,20 +1,24 @@
 
-   body { /* no . means element type */
-        text-align: center; /* text-align centers text AND children */
- 
-      }
+body { /* no . means element type */
+     text-align: center; /* text-align centers text AND children */
+}
+
+/*modify the elements of the page*/
       
-      .avatar-container .Player-username {
-        font-size: 2em;
-        font-family: "papyrus", fantasy;
-          color:rgba(104, 118, 243, 0.685);
+.avatar-container .Player-username {
+     font-size: 2em;
+     font-family: "papyrus", fantasy;
+     color:rgba(104, 118, 243, 0.685);
     }
 
 .ratings-container{
 	background-color:#303030;
 }
 
-
+.container {
+    max-width: none !important;
+   background-image: url('https://i.imgur.com/5aehvPb.jpg');
+}
  
 /*HIDE PARTS*/
 .ratings-row {
@@ -24,13 +28,31 @@
 .col-sm-4{
 	display: none !important;
 }
+
+/*library results*/
+
+.library-won-result-vs-stronger{  background-color: RGBA( 255, 182, 193, 1 ) !important; color:black !important;}
+.library-won-result-vs-weaker{  background-color: RGBA( 255, 160, 122, 1 ) !important; color:black !important;}
+.library-lost-result-vs-weaker {  background-color: RGBA( 32, 178, 170, 1 ) !important; color:black !important;}
+.library-lost-result-vs-stronger{  background-color: RGBA( 135, 206, 250, 1 ) !important; color:black !important;}
+
+/* the game history table*/
+
+.library-lost-result-unranked {  color: RGBA( 255, 182, 193, 1 ) !important;}
+.library-won-result-unranked { color: RGBA( 32, 178, 170, 1 ) !important;}
+
+/*pie chart
+
+.strong-wins
+.strong-losses {   fill:rgba(104, 118, 243, 0.685) !important;}
+.weak-wins
+.weak-losses*/
+
+/*fonts and solors*/
  
 h2 {
-	
-	        font-family: "papyrus", fantasy;
-          color:rgba(104, 118, 243, 0.685);
-
-
+	font-family: "papyrus", fantasy;
+        color:rgba(104, 118, 243, 0.685);
 }
 
 h3 {
@@ -44,31 +66,23 @@ h4{
 }
 
 .camille {
-        /*font-family: "Book Antiqua", serif;
-          color:RGBA( 0, 128, 128, 1 );*/
-	   color: RGBA( 64, 224, 208, 1 )
-   font-family: "Brush Script MT", font;
+     /*font-family: "Book Antiqua", serif;
+     color:RGBA( 0, 128, 128, 1 );*/
+	color: RGBA( 64, 224, 208, 1 )
+	font-family: "Brush Script MT", font;
 }
-	
-
-span.test{
-  display: inline-block;
-  padding: 0 10% ;
-  color: rgba(0, 140, 255, 0.76);
-
-}
-
 
 p {
   color: rgba(0, 140, 255, 0.76);
    font-family: "Lucida Handwriting", cursive; 
 }
 
-.container {
-    max-width: none !important;
+/*IMAGES AND SHAPING*/	
 
-   background-image: url('https://i.imgur.com/5aehvPb.jpg');
-
+span.test{
+  display: inline-block;
+  padding: 0 10% ;
+  color: rgba(0, 140, 255, 0.76);
 }
 
 .image {
@@ -85,9 +99,11 @@ margin-right: auto;
 border-radius: 40px;
 }
 
+/*ANIMATION*/
+
 .about-container h1 {
     /*color:rgba(247, 163, 38, 0.89);*/
-	 color: rgba(0, 140, 255, 0.76);
+	color: rgba(0, 140, 255, 0.76);
    font-family: "Lucida Handwriting", cursive; 
     font-size: 3em;
     position: absolute;
@@ -125,25 +141,3 @@ border-radius: 40px;
         transform: translateX(-100%); 
     }
 }
-
-/*If you change the background colours in the classes*/
-
-.library-won-result-vs-stronger{  background-color: RGBA( 255, 182, 193, 1 ) !important; color:black !important;}
-.library-won-result-vs-weaker{  background-color: RGBA( 255, 160, 122, 1 ) !important; color:black !important;}
-.library-lost-result-vs-weaker {  background-color: RGBA( 32, 178, 170, 1 ) !important; color:black !important;}
-.library-lost-result-vs-stronger{  background-color: RGBA( 135, 206, 250, 1 ) !important; color:black !important;}
-
-/*and for the game history table colours of*/
-
-.library-lost-result-unranked {  color: RGBA( 255, 182, 193, 1 ) !important;}
-.library-won-result-unranked { color: RGBA( 32, 178, 170, 1 ) !important;}
-
-/* and for the pie chart change the colours of fill
-
-.strong-wins
-.strong-losses {   fill:rgba(104, 118, 243, 0.685) !important;}
-.weak-wins
-.weak-losses*/
-
-
-
