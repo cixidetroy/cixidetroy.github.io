@@ -26,17 +26,21 @@
 }
  
 h2 {
-	/*color:rgba(104, 118, 243, 0.685);*/
- color: RGBA( 64, 224, 208, 1 );
+	
+	        font-family: "papyrus", fantasy;
+          color:rgba(104, 118, 243, 0.685);
+
+
 }
 
 h3 {
-    color: RGBA( 0, 128, 128, 1 );
+  color: rgba(0, 140, 255, 0.76);
+   font-family: "Lucida Handwriting", cursive; 
   }
 
 h4{
    color: RGBA( 64, 224, 208, 1 )
-   font-family: "Brush Script MT", font;
+   font-family: "Lucida Handwriting", cursive; 
 }
 
 .camille {
