@@ -24,9 +24,7 @@ span.test{
   display: inline-block;
   font-size: 20px;
   padding: 20px;
-  width: 100px;
-  height: 100px;
-  background-color: pink; 
+  background-color: yellow; 
 }
 
 p {
