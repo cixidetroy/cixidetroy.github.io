@@ -16,6 +16,8 @@ h2,h3 {
     color: rgba(102, 31, 216, 0.685);
   }
 
+h4{color: rgba(102, 31, 216, 0.685);}
+
 p {
   color: rgba(0, 140, 255, 0.76);
    font-family: "Lucida Handwriting", cursive; 
