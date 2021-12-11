@@ -23,9 +23,8 @@ h4{
 
 span.test{
   display: inline-block;
-  font-size: 20px;
-  padding: 20px;
-  background-color: yellow; 
+  padding: 5px;
+  background-color: pink; 
 }
 
 p {
