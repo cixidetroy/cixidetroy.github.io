@@ -105,8 +105,8 @@ border-radius: 40px;
 /*ANIMATION*/
 
 .about-container h1 {
-    /*color:rgba(247, 163, 38, 0.89);*/
-	color:RGBA( 0, 206, 209, 1 );
+    color:rgba(247, 163, 38, 0.89);
+	/*color:RGBA( 0, 206, 209, 1 );*/
    font-family: "Lucida Handwriting", cursive; 
     font-size: 3em;
     position: absolute;
