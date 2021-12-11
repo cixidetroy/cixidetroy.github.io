@@ -16,8 +16,16 @@ h2,h3 {
   }
 
 h4{
-    display: inline-block;
-   color: rgba(102, 31, 216, 0.685)
+   color: rgba(0, 140, 255, 0.76)
+}
+
+.test
+{
+  display: inline-block;
+  text-align: center;
+  margin: 0;  
+  font-size: 20px;
+  padding: 20px;
 }
 
 p {
