@@ -9,6 +9,11 @@
         font-family: "papyrus", fantasy;
           color:rgba(104, 118, 243, 0.685);
     }
+
+.ratings-container{background-color:#fff
+}
+
+
  
 /*HIDE PARTS*/
 .ratings-row {
@@ -103,15 +108,15 @@ border-radius: 40px;
 
 /*If you change the background colours in the classes*/
 
-.library-won-result-vs-stronger
-.library-won-result-vs-weaker
-.library-lost-result-vs-weaker {  background-color: rgba(255, 255, 128, .5) !important;}
-.library-lost-result-vs-stronger
+.library-won-result-vs-stronger{  background-color: RGBA( 255, 182, 193, 1 ) !important;}
+.library-won-result-vs-weaker{  background-color: RGBA( 255, 160, 122, 1 ) !important;}
+.library-lost-result-vs-weaker {  background-color: RGBA( 32, 178, 170, 1 ) !important;}
+.library-lost-result-vs-stronger{  background-color: RGBA( 135, 206, 250, 1 ) !important;}
 
 /*and for the game history table colours of*/
 
-.library-lost-result-unranked
-.library-won-result-unranked
+.library-lost-result-unranked {  color: RGBA( 255, 182, 193, 1 ) !important;}
+.library-won-result-unranked { color: RGBA( 32, 178, 170, 1 ) !important;}
 
 /* and for the pie chart change the colours of fill
 
