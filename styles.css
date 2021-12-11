@@ -15,7 +15,10 @@ h2,h3 {
     color: rgba(102, 31, 216, 0.685);
   }
 
-h4{color: rgba(102, 31, 216, 0.685);}
+h4{
+    display: inline-block;
+   color: rgba(102, 31, 216, 0.685)
+}
 
 p {
   color: rgba(0, 140, 255, 0.76);
