@@ -15,7 +15,7 @@ body { /* no . means element type */
 	background-color:#282828;
 	border: solid;
 	border-color: #808080;
-	border-width: thin;
+	border-width: 0.5px;
 }
 
 .container {
