@@ -64,7 +64,7 @@ h3 {
   }
 
 h4{
-   color: rgba(0, 140, 255, 0.76))
+   color: rgba(0, 140, 255, 0.76));
    font-family: "papyrus", fantasy;
 }
 
@@ -73,6 +73,7 @@ h4{
      color:RGBA( 0, 128, 128, 1 );*/
 	RGBA( 0, 206, 209, 1 )
 	font-family: "papyrus", fantasy;
+	left:0;
 }
 
 p {
