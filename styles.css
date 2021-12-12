@@ -14,7 +14,7 @@ body { /* no . means element type */
 .ratings-container{
 	background-color:#282828;
 	border: solid;
-	border-color: #808080;
+	border-color: #707070;
 	border-width: 0.5px;
 }
 
